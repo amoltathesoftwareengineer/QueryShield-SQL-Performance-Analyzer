@@ -1,5 +1,5 @@
 
-# QueryShield — SQL Performance & Query Optimization Analyzer
+# QueryShield - SQL Performance & Query Optimization Analyzer
 
 QueryShield is a database performance analysis project designed to help developers understand SQL query execution behavior and identify potential optimization opportunities.
 
